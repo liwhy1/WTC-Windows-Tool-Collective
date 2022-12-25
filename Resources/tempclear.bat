@@ -18,9 +18,5 @@ netsh winsock reset
 rmdir /S /Q C:\Users\%username%\AppData\Local\NVIDIA\DXCache\
 rmdir /S /Q "C:\Users\%username%\AppData\Local\NVIDIA\GLCache\
 
-cleanmgr.exe
 explorer.exe
-
-echo Cleaning completed!
-echo Restart Recommended!
-PAUSE
+exit
