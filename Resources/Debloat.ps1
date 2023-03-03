@@ -21,7 +21,6 @@ $AppXApps = @(
 		"Microsoft.NetworkSpeedTest"
 		"Microsoft.News"
 		"Microsoft.Office.Lens"
-		"Microsoft.Office.OneNote"
 		"Microsoft.Office.Sway"
 		"Microsoft.OneConnect"
 		"Microsoft.People"
