@@ -51,10 +51,6 @@ $AppXApps = @(
 		"Dolby"
 		"Spotify"
 		"Microsoft.549981C3F5F10"
-		"Microsoft.NET.Native.Framework.2.2"
-		"Microsoft.NET.Native.Runtime.2.2"
-		"Microsoft.VCLibs.140.00.UWPDesktop"
-		"Microsoft.VCLibs.140.00"
 		"MicrosoftWindows.Client.WebExperience"
 		"MicrosoftTeams"
 		"Clipchamp.Clipchamp"
@@ -70,7 +66,6 @@ $AppXApps = @(
 		"BytedancePte.Ltd.TikTok"
 		"Microsoft.VCLibs.140.00.UWPDesktop"
 		"Microsoft.UI.Xaml.2.8"
-		"Microsoft.UI.Xaml.2.8"
 		"5319275A.WhatsAppDesktop"
 		"Microsoft.WebMediaExtensions"
 		"Microsoft.VP9VideoExtensions"
@@ -83,7 +78,6 @@ $AppXApps = @(
 		"Microsoft.HEVCVideoExtension"
 		"Microsoft.HEIFImageExtension"
 		"Microsoft.BingWeather"
-		"Microsoft.UI.Xaml.2.7"
 		"Microsoft.UI.Xaml.2.7"
     )
     foreach ($App in $AppXApps) {
