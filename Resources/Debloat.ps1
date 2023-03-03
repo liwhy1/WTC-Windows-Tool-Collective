@@ -51,7 +51,6 @@ $AppXApps = @(
 		"Dolby"
 		"Spotify"
 		"Microsoft.549981C3F5F10"
-		"MicrosoftWindows.Client.WebExperience"
 		"MicrosoftTeams"
 		"Clipchamp.Clipchamp"
 		"Microsoft.Todos"

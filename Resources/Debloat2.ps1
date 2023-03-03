@@ -73,7 +73,6 @@ $AppXApps = @(
 		"Sway"
 		"Dolby"
 		"Microsoft.549981C3F5F10"
-		"MicrosoftWindows.Client.WebExperience"
 		"MicrosoftTeams"
 		"Microsoft.MicrosoftEdge.Stable"
 		"Microsoft.ScreenSketch"
