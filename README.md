@@ -2,12 +2,12 @@
 This tool contains Windows related tools.
 Made for system administrators & power users.
 
-# Prerequisites
-Winget\n
+## Prerequisites
+Winget
 Correct Execution Policy: Set-ExecutionPolicy -Scope CurrentUser RemoteSigned -Force
 [Windows Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.16-windows-x64-installer)
 
-# Included Tools
+## Included Tools
 Microsoft Office installation & activation.
 Microsoft Office and OneDrive uninstallation.
 Windows activation & edition changing.
