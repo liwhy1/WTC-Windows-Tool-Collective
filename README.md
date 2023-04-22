@@ -6,7 +6,7 @@ Made for system administrators & power users.
 ## Prerequisites
 Winget
 
-Correct Execution Policy: Set-ExecutionPolicy -Scope CurrentUser RemoteSigned -Force
+RemoteSigned Execution Policy
 
 [Windows Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.16-windows-x64-installer)
 
