@@ -8,6 +8,6 @@ del "Windows Tool Collective.runtimeconfig.json"
 del "Microsoft.Windows.SDK.NET.dll"
 del "WinRT.Runtime.dll"
 git clone https://github.com/liwhy1/WTC-Windows-Tool-Collective .\Update
-del "README.md"
 robocopy .\Update .\ /xa:H /IM /E
+del "README.md"
 "Windows Tool Collective.exe"
